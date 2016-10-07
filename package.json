@@ -1,5 +1,5 @@
 {
-  "name": "@samg/npmanagetut",
+  "name": "samg",
   "version": "1.0.0",
   "description": "npm tut",
   "main": "index.js",
@@ -7,5 +7,18 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "samg",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samgtz/npmanagetut.git"
+  },
+  "keywords": [
+    "npm",
+    "manage",
+    "git"
+  ],
+  "bugs": {
+    "url": "https://github.com/samgtz/npmanagetut/issues"
+  },
+  "homepage": "https://github.com/samgtz/npmanagetut#readme"
 }
